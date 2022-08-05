@@ -1,2 +1,2 @@
 学习网站:
-[OIWiki](oiwiki.org)
+[OIWiki](https://oiwiki.org)
